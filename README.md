@@ -17,3 +17,17 @@ In the first script file, [detect_faces.py](https://github.com/arshpreetsingh134
 In the second script file, [detect_faces_video.py](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/detect_faces_video.py), I tweaked the code a little bit and applied face detection with OpenCV to videos, video streams, and webcams.
 
 The code was written on _Spyder (Python 3.7)_.
+
+</br>
+
+### Here is a test image I downloaded from the internet :-
+
+![Test Image](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/images/test_image.jpg)
+
+</br>
+
+### And here is the output image after inputting it to the model :-
+
+![Test Image](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/images/output_01.jpg)
+
+Amazing, isn't it? :)
