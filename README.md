@@ -12,8 +12,8 @@ I used two files in my code :-
 - The **.caffemodel** file, which contains the weights for the model.
 </br>
 
-In the first notebook file, [detect_faces.py](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/detect_faces.py), I applied face detection with OpenCV to single input images.
+In the first script file, [detect_faces.py](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/detect_faces.py), I applied face detection with OpenCV to single input images.
 
-In the second notebook file, [detect_faces_video.py](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/detect_faces_video.py), I tweaked the code a little bit and applied face detection with OpenCV to videos, video streams, and webcams.
+In the second script file, [detect_faces_video.py](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/detect_faces_video.py), I tweaked the code a little bit and applied face detection with OpenCV to videos, video streams, and webcams.
 
 The code was written on _Spyder (Python 3.7)_.
