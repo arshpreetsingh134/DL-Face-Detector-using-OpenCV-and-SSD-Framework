@@ -28,6 +28,6 @@ The code was written on _Spyder (Python 3.7)_.
 
 ### And here is the output image after inputting it to the model :-
 
-![Test Image](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/images/output_01.jpg)
+![Output Image](https://github.com/arshpreetsingh134/DL-Face-Detector-using-OpenCV-and-SSD-Framework/blob/master/images/output_01.jpg)
 
 Amazing, isn't it? :)
